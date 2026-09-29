@@ -1,0 +1,6 @@
+name: genpark-parallel-subtask-wavefront-scheduler-skill
+version: 1.0.0
+description: Wavefront level scheduler grouping independent DAG tasks into parallel execution stages
+command: python
+args:
+  - mcp_server.py
